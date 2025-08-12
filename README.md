@@ -73,7 +73,3 @@ project-root/
 * Google API
 
 ---
-
-## 📝 License
-
-This project is for educational purposes.
