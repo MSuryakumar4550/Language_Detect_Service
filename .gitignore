@@ -1,0 +1,8 @@
+# Environment variables - This keeps your secret keys private
+.env
+
+# Python cache files - These are temporary and not needed
+__pycache__/
+
+# VS Code settings folder - Specific to your computer
+.vscode/
